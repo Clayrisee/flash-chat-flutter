@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981264522686",
+    "firebase_url": "https://flash-chat-60cc0.firebaseio.com",
+    "project_id": "flash-chat-60cc0",
+    "storage_bucket": "flash-chat-60cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981264522686:android:fceb0ae7e239273f802def",
+        "android_client_info": {
+          "package_name": "co.clayrise.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981264522686-lf6f06t3q781e1bukusupih0mhvkqnie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7N6ft5SBj3UbPJjY2AW2bf_Rh4hv-Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981264522686-lf6f06t3q781e1bukusupih0mhvkqnie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
